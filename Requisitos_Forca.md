@@ -1,8 +1,8 @@
-# Levantamento de Requisitos - Jogo **Star Force**
+# Levantamento de Requisitos - Jogo **Star Hanged**
 
 ## 1. Introdução
 
-Este documento apresenta o levantamento de requisitos iniciais (Requisitos Funcionais e Não Funcionais) para o desenvolvimento do jogo **Star Force**. O objetivo é definir as funcionalidades que a aplicação deverá ter para oferecer uma boa experiência aos jogadores.
+Este documento apresenta o levantamento de requisitos iniciais (Requisitos Funcionais e Não Funcionais) para o desenvolvimento do jogo **Star Hanged**. O objetivo é definir as funcionalidades que a aplicação deverá ter para oferecer uma boa experiência aos jogadores.
 
 ## 2. Objetivo do Projeto
 

@@ -1,8 +1,8 @@
-# **Star Force**
+# **Star Hanged**
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo o desenvolvimento do jogo online **Star Force** com suporte a partidas multiplayer, cadastro e autenticação de usuários, sistema de pontuação e histórico de partidas. A aplicação será desenvolvida com foco em desempenho, usabilidade e interatividade.
+Este projeto tem como objetivo o desenvolvimento do jogo online **Star Hanged** com suporte a partidas multiplayer, cadastro e autenticação de usuários, sistema de pontuação e histórico de partidas. A aplicação será desenvolvida com foco em desempenho, usabilidade e interatividade.
 
 ## Propósito da Atividade
 
@@ -14,4 +14,4 @@ Para acessar os requisitos do projeto, basta visualizar o arquivo [Requisitos_Fo
 
 ## Link para o Repositório
 
-Você pode acessar o repositório do projeto através do seguinte link: [https://github.com/Renan-Coding/StarForce](https://github.com/Renan-Coding/StarForce)
+Você pode acessar o repositório do projeto através do seguinte link: [https://github.com/Renan-Coding/StarHanged](https://github.com/Renan-Coding/StarHanged)
