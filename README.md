@@ -14,4 +14,4 @@ Para acessar os requisitos do projeto, basta visualizar o arquivo [Requisitos_Fo
 
 ## Link para o Repositório
 
-Você pode acessar o repositório do projeto através do seguinte link: []()
+Você pode acessar o repositório do projeto através do seguinte link: [https://github.com/Renan-Coding/StarForce](https://github.com/Renan-Coding/StarForce)
